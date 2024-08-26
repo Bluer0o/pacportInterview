@@ -1,3 +1,3 @@
 <template>
-  <div>hello world</div>
+  <div>你好哇！</div>
 </template>
